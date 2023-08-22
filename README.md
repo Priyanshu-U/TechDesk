@@ -1,2 +1,1 @@
-# TechDesk
- LLM Powered Reccomendation System
+# TechDesk - A LLM Powered Recomendation System
